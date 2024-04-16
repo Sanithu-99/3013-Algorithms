@@ -10,7 +10,7 @@
 
 |   #   | Folder Link | Assignment Description |
 | :---: | ----------- | ---------------------- |
-|   1   | [A01] (./Assignments/A01/README.md)| [Assignment 1] (./Assignments/A01/README.md)|
+|   1   | [A01]| [Assignment 1]|
 
 
 
