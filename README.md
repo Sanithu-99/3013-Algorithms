@@ -10,7 +10,7 @@
 
 |   #   | Folder Link | Assignment Description |
 | :---: | ----------- | ---------------------- |
-|   1   | [A01]| [Assignment 1]|
+|   1   | [EC1]| [Extra Credit 1]|
 
 
 
