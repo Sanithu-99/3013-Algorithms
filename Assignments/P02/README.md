@@ -10,10 +10,10 @@ This program employs getch and JSON to retrieve information from a dictionary fi
 |   #   | File             | Description            |
 | :---: | ---------------- | ---------------------- |
 |   1   | [Main.cpp ](https://replit.com/@Sanithu0605/Program-2?v=1#main.cpp)    | Main File               |
-|   2   | [loadJsonEx.hpp](https://replit.com/@Sanithu0605/Program-2#loadJsonEx.hpp)  | Loads json object  |
-|   3   | [rang.hpp](https://replit.com/@Sanithu0605/Program-2#rang.hpp) | Contains text editing (color) |
-|   4   | [console.hpp](https://replit.com/@Sanithu0605/Program-2#console.hpp) | Determines libraries used for os |
-|   5   | [json.hpp](https://replit.com/@Sanithu0605/Program-2#json.hpp) | Uses Nlohhmann json libary to access different json functions |
+|   2   | [console.hpp](https://replit.com/@Sanithu0605/Program-2#console.hpp) | Determines libraries used for os |
+|   3   | [loadJsonEx.hpp](https://replit.com/@Sanithu0605/Program-2#loadJsonEx.hpp)  | Loads json object  |
+|   4   | [json.hpp](https://replit.com/@Sanithu0605/Program-2#json.hpp) | Uses Nlohhmann json libary to access different json functions |
+|   5   | [rang.hpp](https://replit.com/@Sanithu0605/Program-2#rang.hpp) | Contains text editing (color) |
 |   6   | [dictionary.json](https://replit.com/@Sanithu0605/Program-2#dictionary.json) | Includes dictionary json file | 
 
 #### Replit link: https://replit.com/@Sanithu0605/Program-2
