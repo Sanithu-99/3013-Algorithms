@@ -10,7 +10,7 @@
 
 |   #   | Folder Link | Assignment Description |
 | :---: | ----------- | ---------------------- |
-|   1   | [Assignments]| Assignment Folder|
+|   1   | [Assignments](https://github.com/Sanithu-99/3013-Algorithms/tree/main/Assignments)| Assignment Folder|
 
 
 
