@@ -18,9 +18,9 @@ This program employs getch and JSON to retrieve information from a dictionary fi
 
 #### Replit link: https://replit.com/@Sanithu0605/Program-2
 
-### Instructions: 
+#### Instructions: 
 
   * Install all the files above,
   * Press Run and search for a word, when a single word is found, the program will print out the definition.
 
-###                           Have a Nice Day!
+####                           Have a Nice Day!
