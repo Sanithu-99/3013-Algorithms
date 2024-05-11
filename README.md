@@ -10,7 +10,7 @@
 
 |   #   | Folder Link | Assignment Description |
 | :---: | ----------- | ---------------------- |
-|   1   | [EC1]| [Extra Credit 1]|
+|   1   | [Assignments](https://github.com/Sanithu-99/3013-Algorithms/blob/main/Assignments)| [Assignment Folder]|
 
 
 
