@@ -2,7 +2,6 @@
 ### P02
 ### Linear Search - Using Json
 ### Description:
-
 This program employs getch and JSON to retrieve information from a dictionary file. Once a word is found, it prints the corresponding definition below the word.
 
 ### Files
@@ -16,11 +15,12 @@ This program employs getch and JSON to retrieve information from a dictionary fi
 |   5   | [rang.hpp](https://replit.com/@Sanithu0605/Program-2#rang.hpp) | Contains text editing (color) |
 |   6   | [dictionary.json](https://replit.com/@Sanithu0605/Program-2#dictionary.json) | Includes dictionary json file | 
 
-#### Replit link: https://replit.com/@Sanithu0605/Program-2
-
 #### Instructions: 
 
   * Install all the files above,
   * Press Run and search for a word, when a single word is found, the program will print out the definition.
+
+#### Replit link: https://replit.com/@Sanithu0605/Program-2
+
 
 ####                           Have a Nice Day!
